@@ -1,0 +1,20 @@
+# Google Apps Script (clasp)
+.clasp.json
+.clasprc.json
+
+# Node
+node_modules/
+npm-debug.log
+
+# Entorno
+.env
+.env.local
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
